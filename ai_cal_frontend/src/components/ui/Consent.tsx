@@ -13,7 +13,7 @@ const Consent: React.FC = () => {
         <h2 style={styles.header}>Consent Required</h2>
         <p style={styles.description}>
           This AI-powered calculator uses Google Gemini Splash AI to process your input drawings and expressions.
-          By continuing, you agree to Gemini Splash consent.
+          By continuing, you agree to all Gemini Splash consent.
         </p>
         <div style={styles.buttonContainer}>
           <button style={styles.button} onClick={handleConsent}>I Agree</button>

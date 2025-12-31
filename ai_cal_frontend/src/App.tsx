@@ -13,6 +13,7 @@ const paths = [
         element: (
           
           <Home/>
+          
          
         ),
     },
